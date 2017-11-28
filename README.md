@@ -25,7 +25,7 @@ Plan to spend about 5 minutes reading through this document before getting start
 
 After that, follow the instructions below to fork and clone this repository, and then spend about 45 minutes working in the starter code.
 
-1. Fork and then clone the repository from the link provided by the instructor in Slack into your `~/codefellows/301` directory, and navigate into that repo.
+1. Fork and then clone this repository into your `~/codefellows/301` directory, and navigate into that repo.
 2. Create a new branch using your name: `git checkout -b firstname-lastname`
 3. Create a copy of the `starter-code` directory with the copy's name being the your first name and last name (`cp -r starter-code firstname-lastname`) and navigate into that directory (ex: `cd sam-hamm`).
 4. Start by reading through the HTML and CSS files to see how they are interconnected.
